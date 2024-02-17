@@ -12,3 +12,8 @@ int main(){
   return 0;
 }
 ```
+
+###### Frontend milestones
+- [x] HTML and CSS 
+- [x] JavaScript
+- [ ] React
